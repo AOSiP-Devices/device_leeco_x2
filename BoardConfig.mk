@@ -37,7 +37,7 @@ BOARD_KERNEL_CMDLINE += androidboot.configfs=true
 BOARD_KERNEL_TAGS_OFFSET := 0x02000000
 BOARD_RAMDISK_OFFSET     := 0x02200000
 
-TARGET_KERNEL_CONFIG := lineage_x2_defconfig
+TARGET_KERNEL_CONFIG := artemis_x2_defconfig
 
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
