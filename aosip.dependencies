@@ -1,0 +1,21 @@
+[
+  {
+    "remote": "github",
+    "repository": "AOSiP-Devices/device_leeco_msm8996-common",
+    "target_path": "device/leeco/msm8996-common",
+    "branch": "ten"
+  },
+  {
+    "remote": "github",
+    "repository": "AOSiP-Devices/kernel_leeco_msm8996",
+    "target_path": "kernel/leeco/msm8996",
+    "branch": "ten"
+  },
+  {
+    "remote": "github",
+    "repository": "AOSiP-Devices/proprietary_vendor_leeco",
+    "target_path": "vendor/leeco",
+    "branch": "ten"
+  }
+]
+
